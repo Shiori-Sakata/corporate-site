@@ -60,33 +60,33 @@ header {
         display: inline-block;
         line-height: 40px;
         padding-left: 50px;
-        background-image: url("../images/top/navi_top.png");
+        background-image: url("../../images/top/navi_top.png");
         background-size: 40px 40px; } }
     @media screen and (min-width: 551px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 551px) and (min-resolution: 2dppx) {
       header .pc_navi_li li.navi_toppage a {
-        background-image: url("../images/top/navi_top@2x.png"); } }
+        background-image: url("../../images/top/navi_top@2x.png"); } }
   @media (min-width: 551px) {
       header .pc_navi_li li.navi_news a {
         background-repeat: no-repeat;
         display: inline-block;
         line-height: 40px;
         padding-left: 50px;
-        background-image: url("../images/top/navi_news.png");
+        background-image: url("../../images/top/navi_news.png");
         background-size: 40px 40px; } }
     @media screen and (min-width: 551px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 551px) and (min-resolution: 2dppx) {
       header .pc_navi_li li.navi_news a {
-        background-image: url("../images/top/navi_news@2x.png"); } }
+        background-image: url("../../images/top/navi_news@2x.png"); } }
   @media (min-width: 551px) {
       header .pc_navi_li li.navi_company a {
         background-repeat: no-repeat;
         display: inline-block;
         line-height: 40px;
         padding-left: 50px;
-        background-image: url("../images/top/navi_company.png");
+        background-image: url("../../images/top/navi_company.png");
         background-size: 40px 40px; } }
     @media screen and (min-width: 551px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 551px) and (min-resolution: 2dppx) {
       header .pc_navi_li li.navi_company a {
-        background-image: url("../images/top/navi_company@2x.png"); } }
+        background-image: url("../../images/top/navi_company@2x.png"); } }
 
 @media (max-width: 550px) {
   .pc_navi {
@@ -117,42 +117,42 @@ header {
       display: inline-block;
       line-height: 40px;
       padding-left: 50px;
-      background-image: url("../images/top/navi_top.png");
+      background-image: url("../../images/top/navi_top.png");
       background-size: 40px 40px; } }
     @media screen and (max-width: 550px) and (-webkit-min-device-pixel-ratio: 2), (max-width: 550px) and (min-resolution: 2dppx) {
       .pc_navi_li li.navi_toppage a {
-        background-image: url("../images/top/navi_top@2x.png"); } }
+        background-image: url("../../images/top/navi_top@2x.png"); } }
 @media (max-width: 550px) {
     .pc_navi_li li.navi_news a {
       background-repeat: no-repeat;
       display: inline-block;
       line-height: 40px;
       padding-left: 50px;
-      background-image: url("../images/top/navi_news.png");
+      background-image: url("../../images/top/navi_news.png");
       background-size: 40px 40px; } }
     @media screen and (max-width: 550px) and (-webkit-min-device-pixel-ratio: 2), (max-width: 550px) and (min-resolution: 2dppx) {
       .pc_navi_li li.navi_news a {
-        background-image: url("../images/top/navi_news@2x.png"); } }
+        background-image: url("../../images/top/navi_news@2x.png"); } }
 @media (max-width: 550px) {
     .pc_navi_li li.navi_company a {
       background-repeat: no-repeat;
       display: inline-block;
       line-height: 40px;
       padding-left: 50px;
-      background-image: url("../images/top/navi_company.png");
+      background-image: url("../../images/top/navi_company.png");
       background-size: 40px 40px; } }
     @media screen and (max-width: 550px) and (-webkit-min-device-pixel-ratio: 2), (max-width: 550px) and (min-resolution: 2dppx) {
       .pc_navi_li li.navi_company a {
-        background-image: url("../images/top/navi_company@2x.png"); } }
+        background-image: url("../../images/top/navi_company@2x.png"); } }
 
 #cover_area {
   text-align: center;
   padding: 80px 0;
-  background-image: url("../images/top/cover.jpg");
+  background-image: url("../../images/top/cover.jpg");
   background-size: cover; }
   @media screen and (-webkit-min-device-pixel-ratio: 2), (min-resolution: 2dppx) {
     #cover_area {
-      background-image: url("../images/top/cover@2x.jpg"); } }
+      background-image: url("../../images/top/cover@2x.jpg"); } }
   @media (min-width: 551px) {
     #cover_area {
       text-align: left;
@@ -276,11 +276,11 @@ footer {
           margin-right: 10px;
           font-size: 11px;
           font-size: 1.1rem;
-          background-image: url("../images/top/foot_arroehead.png");
+          background-image: url("../../images/top/foot_arroehead.png");
           background-size: 4px 6px; } }
       @media screen and (min-width: 551px) and (-webkit-min-device-pixel-ratio: 2), (min-width: 551px) and (min-resolution: 2dppx) {
         footer .foot_navi li {
-          background-image: url("../images/top/foot_arroehead@2x.png"); } }
+          background-image: url("../../images/top/foot_arroehead@2x.png"); } }
   @media (min-width: 551px) {
         footer .foot_navi a {
           color: white;
